@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=take+a+look+👀;this+is+my+journey+to+the+professional+deep+learning+engineer)](https://git.io/typing-svg)
 ![jjlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjlee99&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjlee99&layout=compact)
-
+## 👥 welcome my strangers!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+## 📱 please contact me with..
 ## 🛠️ I got Skills for..
 ### 📋 languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
